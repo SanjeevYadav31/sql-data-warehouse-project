@@ -57,7 +57,7 @@ Example:
 SELECT *
 FROM bronze.sales;
 
-##Silver Layer##
+## Silver Layer ##
 
 The Silver Layer contains cleaned and standardized data.
 
@@ -86,9 +86,9 @@ The Gold Layer contains business-ready data optimized for reporting and analytic
 The data is modeled using a Star Schema consisting of fact and dimension tables.
 
 
-## Author##
+## Author ##
 
-## Sanjeev Yadav##
+## Sanjeev Yadav ##
 
 GitHub:SanjeevYadav31
 LinkedIn: 
