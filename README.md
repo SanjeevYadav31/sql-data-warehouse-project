@@ -1,4 +1,3 @@
-# sql-data-warehouse-project
 # SQL Data Warehouse Project #
 
 A modern SQL-based Data Warehouse project designed to consolidate, clean, transform, and analyze data from multiple source systems.
